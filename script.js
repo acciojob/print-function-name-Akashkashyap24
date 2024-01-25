@@ -1,5 +1,5 @@
 //your JS code here. If required.
 let a=function functionName() {
-	arguments.callee.name;
+	alert("functionName");
 }
 a();
